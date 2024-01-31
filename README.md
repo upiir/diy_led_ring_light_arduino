@@ -6,6 +6,11 @@ This video is sponsored by PCBway. By using the link, you can get 10 PCBs for fr
 
 **YOUTUBE VIDEO: https://youtu.be/Bot865qmdsM**
 
+**Order PCB from PCBWay: https://www.pcbway.com/project/shareproject/SMD_LED_Ring_Light_for_Potentiometer_241c6d9a.html**
+
+_Do you like the video? Please consider buying me a coffee, thank you! https://www.buymeacoffee.com/upir_
+
+
 Links from the video:
 - 10K Potentiometer: https://s.click.aliexpress.com/e/_Dk1WFoV
 - Solid Aluminium Knob: https://s.click.aliexpress.com/e/_DFPuloh
